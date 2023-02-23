@@ -1,0 +1,17 @@
+{
+    "name": "parves/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Parves\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prince-Parves",
+            "email": "princeparves79@gmail.com"
+        }
+    ]
+}
